@@ -514,6 +514,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <em>Built with ❤️ for sustainable waste management through AI</em>
-</p>
+</p> -->
